@@ -1,1 +1,1 @@
-FROM registry.datacommand.co.kr/logspout:v1.0.0
+FROM registry.datacommand.co.kr/logspout:v3.2.11
